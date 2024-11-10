@@ -3,6 +3,7 @@ layout: post
 title:  "맥OS에서 Github Page 기반 블로그 제작하기"
 date:   2024-11-07 11:52:40 +0900
 categories: [jekyll study]
+author: choi
 pin: true
 ---
 # 맥OS에서 Github Page 기반 블로그 제작하기

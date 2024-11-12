@@ -33,7 +33,7 @@ pin: true
 ### 2. 로컬 변경사항 적용
 - 클론한 리포지토리 열기 (`README.md` 파일 확인)
 - `index.html` 파일 생성
-```html
+``` html
 <html>
 	<body>
 		Hello! This is the first page!

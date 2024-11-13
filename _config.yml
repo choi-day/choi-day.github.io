@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "choi-day.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -214,6 +214,7 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - assets
 
 jekyll-archives:
   enabled: [categories, tags]

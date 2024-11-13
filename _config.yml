@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "choi-day.github.io"
+baseurl: "assets"
 
 # ------------ The following options are not recommended to be modified ------------------
 

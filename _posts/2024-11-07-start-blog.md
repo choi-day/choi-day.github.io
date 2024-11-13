@@ -37,6 +37,7 @@ pin: true
 ### 2. 로컬 변경사항 적용
 - 클론한 리포지토리 열기 (`README.md` 파일 확인)
 - `index.html` 파일 생성
+
 ``` html
 <html>
 	<body>
@@ -44,6 +45,7 @@ pin: true
 	</body>
 </html>
 ```
+
 - 좌측 **Source Control** 메뉴 선택
 - `+` 버튼을 클릭하여 변경사항 추가
 - 커밋 메시지 입력, 커밋 & 푸시
@@ -55,22 +57,29 @@ pin: true
 ### 1. Ruby 설치
 > homebrew가 설치되어있어야 합니다.
 - bash 터미널로 이동
+
 ``` 
 chsh -s/bin/zsh
 ```
+
 -> 이동하면 $로 변경됩니다
 - rebenv 이용하여 ruby설치
 맥북은 이미 ruby가 설치되어있습니다. rbenv를 이용하여 ruby버전을 관리하는 것이 추천됩니다.
+
 ```bash
 brew install rbenv
 ```
+
 - ruby 버전 확인 및 설치
+
 ```bash
 rbenv install 버전
 rbenv rehash #설치 후 재실행
 ```
+
 -> 현재(2024.11.10 기준) 3.1.2가 최신버전입니다
 - 환경 설정 파일 추가
+
 ``` bash
 cd  #root로 이동
 nano .bash_profile 
@@ -82,10 +91,13 @@ nano .bash_profile
 
 #control+x -> y-> enter누르면 저장
 ``` 
+
 - 적용된 ruby버전 확인
+
 ```bash
 rbenv versions
 ```
+
 - 버전을 잘못 다운 받았을 때 삭제하기
 ``` bash
 rbenv uninstall 다운받은 버전
@@ -192,12 +204,13 @@ npm install && npm run build
 
 ### 5. 테마 상세 설정
 - `.gitignore` 파일 하단 수정
-```shell
+```
 # Misc
 # _sass/dist
 # assets/js/dist
 ```
 - `_config.yml` 파일 수정
+
 ```shell
 timezone: Asia/Seoul
 
@@ -206,6 +219,7 @@ url: "https://karina.github.io"
 github:
   username: karina
 ```
+
 - 모든 변경사항 커밋 및 푸시
 - 커밋 메시지 주의
 - 사이트 반영 확인 (예시: `https://karina.github.io`)

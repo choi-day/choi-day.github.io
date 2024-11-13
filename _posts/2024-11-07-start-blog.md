@@ -10,7 +10,7 @@ pin: true
 ## ✨맥OS에서 Jekyll을 이용하여 Github Page기반 블로그를 제작해보자 Feat. Chirpy✨
 &nbsp;
 &nbsp;
-## Git Page 생성하기
+## ✅ Git Page 생성하기
 * * *
 
 ### 1. 레포지토리 생성
@@ -27,7 +27,7 @@ pin: true
 - Source 를 `Deploy from a branch`로 설정
 - 사이트 접속 확인 (예시: `https://username.github.io`)
 
-## VS Code 활용
+## ✅ VS Code 활용
 * * *
 
 ### 1. 리포지토리 클론
@@ -51,7 +51,7 @@ pin: true
 - 커밋 메시지 입력, 커밋 & 푸시
 - 사이트 반영 확인 (예시: `https://username.github.io`)
 
-## 로컬 개발 환경 구축
+## ✅ 로컬 개발 환경 구축
 * * *
 
 ### 1. Ruby 설치
@@ -125,7 +125,7 @@ bundle install
 ```
 - http://127.0.0.1:4000/ 또는 http://localhost:4000/ 접속 확인
 
-## Jekyll 테마 적용
+## ✅ Jekyll 테마 적용
 * * * 
 
 ### 1. 테마 선택
@@ -243,6 +243,7 @@ rebenv install 버전
 * * *
 
 # 참고한 글
-<https://cmjunghoon.github.io/posts/Install_Ruby/#1-rbenv%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ruby-%EC%84%A4%EC%B9%98>
-<https://deku.posstree.com/ko/jekyll/installation/>
-<https://renee.tistory.com/46>
+✏️ <https://cmjunghoon.github.io/posts/Install_Ruby/#1-rbenv%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ruby-%EC%84%A4%EC%B9%98>
+✏️<https://deku.posstree.com/ko/jekyll/installation/>
+✏️<https://renee.tistory.com/46>
+✏️<https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md>

@@ -244,6 +244,9 @@ rebenv install 버전
 
 # 참고한 글
 ✏️ <https://cmjunghoon.github.io/posts/Install_Ruby/#1-rbenv%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ruby-%EC%84%A4%EC%B9%98>
+
 ✏️<https://deku.posstree.com/ko/jekyll/installation/>
+
 ✏️<https://renee.tistory.com/46>
+
 ✏️<https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md>

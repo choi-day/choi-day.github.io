@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "맥OS에서 Github Page 기반 블로그 제작하기"
+title:  "맥OS에서 Jekyll을 이용하여 Github Page 기반 블로그 제작하기"
 date:   2024-11-07 11:52:40 +0900
 categories: [jekyll study]
 author: choi
 pin: true
 ---
-# 맥OS에서 Github Page 기반 블로그 제작하기
+&nbsp;
+## ✨맥OS에서 Jekyll을 이용하여 Github Page기반 블로그를 제작해보자 Feat. Chirpy✨
+&nbsp;
+&nbsp;
 ## Git Page 생성하기
 * * *
 
@@ -25,6 +28,7 @@ pin: true
 - 사이트 접속 확인 (예시: `https://username.github.io`)
 
 ## VS Code 활용
+* * *
 
 ### 1. 리포지토리 클론
 - VS Code 열기 -> F1 키 입력 -> git clone 검색 -> Git: Clone 선택
@@ -46,6 +50,7 @@ pin: true
 - 사이트 반영 확인 (예시: `https://username.github.io`)
 
 ## 로컬 개발 환경 구축
+* * *
 
 ### 1. Ruby 설치
 > homebrew가 설치되어있어야 합니다.
@@ -109,6 +114,7 @@ bundle install
 - http://127.0.0.1:4000/ 또는 http://localhost:4000/ 접속 확인
 
 ## Jekyll 테마 적용
+* * * 
 
 ### 1. 테마 선택
 - http://jekyllthemes.org
@@ -204,6 +210,7 @@ github:
 - 커밋 메시지 주의
 - 사이트 반영 확인 (예시: `https://karina.github.io`)
 
+* * *
 
 # 에러가 나는 경우
 설치하면서 제가 겪었던 문제를 정리했습니다 오류가 뜰 때 해당하는 사항이 있는 지 확인하면 좋을 것 같습니다
@@ -219,6 +226,7 @@ Ruby가 최신 버전이 아니어서 오류가 뜰 수도 있습니다. 최신�
 ```shell
 rebenv install 버전
 ```
+* * *
 
 # 참고한 글
 <https://cmjunghoon.github.io/posts/Install_Ruby/#1-rbenv%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ruby-%EC%84%A4%EC%B9%98>

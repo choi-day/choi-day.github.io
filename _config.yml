@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: 
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/commons/avatar.jpg"
@@ -110,14 +110,15 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: utterances
-  # The provider options are as follows:
-  disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
-  utterances:
-    repo: choi-day/choi-day.github.io
-    issue_term: pathname
+  # provider: utterances
+  # # The provider options are as follows:
+  # disqus:
+  #   shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # # utterances settings › https://utteranc.es/
+  # utterances:
+  #   repo: choi-day/choi-day.github.io
+  #   theme: "git-light"
+  #   issue_term: pathname
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>

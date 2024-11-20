@@ -3,6 +3,7 @@ layout: post
 title:  "스프링 없는 순수한 자바로 개발해보기 - 프로젝트 시작"
 date:   2024-11-17 00:00:40 +0900
 categories: [Spring study, 스프링 핵심 원리 - 기본편]
+tags: [Spring, InteliJ]
 author: choi
 ---
 스프링의 도움 없이 자바로만 개발을 진행해보자.

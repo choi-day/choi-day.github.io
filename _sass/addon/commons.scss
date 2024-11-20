@@ -750,12 +750,12 @@ $btn-mb: 0.5rem;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
     width: fit-content;
-    color: var(--site-title-color);
+    color: white;
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    color: white;
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
@@ -789,13 +789,13 @@ $btn-mb: 0.5rem;
           font-size: 95%;
           opacity: 0.8;
           margin-right: 1.5rem;
-          color:rgb(225, 226, 169);
+          color: rgb(216, 115, 125);
         }
 
         span {
           font-size: 90%;
           letter-spacing: 0.2px;
-          color:rgb(225, 226, 169);
+          color:rgb(216, 115, 125);
         }
       }
 
@@ -828,7 +828,7 @@ $btn-mb: 0.5rem;
       height: $btn-size;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
-      color: rgb(225, 226, 169);
+      color: rgb(216, 115, 125);
       background-color: var(--sidebar-btn-bg);
       text-align: center;
       display: flex;

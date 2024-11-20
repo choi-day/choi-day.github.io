@@ -3,6 +3,7 @@ layout: post
 title:  "맥OS에서 Jekyll을 이용하여 Github Page 기반 블로그 제작하기"
 date:   2024-11-07 11:52:40 +0900
 categories: [jekyll study]
+tags: [git, gitblog, chirpy]
 author: choi
 pin: true
 ---

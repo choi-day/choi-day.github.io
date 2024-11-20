@@ -3,6 +3,7 @@ layout: post
 title:  "Mac에서 스프링 공부 사전 준비 시작하기(java11, inteliJ 설치)"
 date:   2024-11-17 00:00:40 +0900
 categories: [Spring study]
+tags: [Spring, InteliJ]
 author: choi
 ---
 # java 21 설치하기

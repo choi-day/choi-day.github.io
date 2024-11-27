@@ -5,6 +5,7 @@ date:   2024-11-27 00:00:40 +0900
 categories: [pygame]
 tags: [pygame]
 author: choi
+pin: true
 ---
 
 # ✨PYGAME을 이용하여 게임 제작 프로젝트를 시작!✨

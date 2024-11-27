@@ -15,7 +15,7 @@ pin: true
 
  pygame이 처음이기도 하고 어떻게 시작할 지 막막하여 이미 실행이 되도록 제작이 된 코드를 더 발전시켜보는 방향으로 진행하기로 했다. 코드가 굉장히 많았는데, 상의 끝에 폭탄 피하기 게임을 제작하기로 했다. 
 
-코드는 https://ai-creator.tistory.com/529 에서 참고했다.
+코드는 <https://ai-creator.tistory.com/529> 에서 참고했다.
 
 ```python
 import pygame  # 1. pygame 선언

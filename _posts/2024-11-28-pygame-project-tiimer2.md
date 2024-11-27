@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pygame으로 게임 만들기 - 3. 종료 화면 꾸미기 (+타이머 수정하기)"
-date:   2024-11-27 00:00:40 +0900
+date:   2024-11-27 00:02:40 +0900
 categories: [pygame]
 tags: [pygame]
 author: choi

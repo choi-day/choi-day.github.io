@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pygame으로 게임 만들기 - 1. 기획"
+title:  "Pygame으로 게임 만들기 - 2. 타이머구현"
 date:   2024-11-27 00:00:40 +0900
 categories: [pygame]
 tags: [pygame]

@@ -58,4 +58,6 @@ logo를 선택하면 정사각형의 작업환경이 나온다
 
 &nbsp;
 ![gameover](/assets/img/canva/gameover.png)
+&nbsp;
+
 같은 방법으로 game over 문구도 제작했다.

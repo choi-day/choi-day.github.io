@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pygame으로 게임 만들기 - 5. 음악 볼륨 조절하기"
+title:  "Pygame으로 게임 만들기 - 7. 디자인 수정하기 (배경삽입, 로고 이미지 삽입)"
 date:   2024-11-27 00:07:40 +0900
 categories: [pygame]
 tags: [pygame]

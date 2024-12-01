@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pygame으로 게임 만들기 - 6. 번개 오브젝트 추가하기"
-date:   2024-11-27 00:10:40 +0900
+date:   2024-11-28 00:10:40 +0900
 categories: [pygame]
 tags: [pygame]
 author: choi
